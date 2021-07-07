@@ -1,1 +1,4 @@
-Working hard to be a full full stack dev!!
+Computer Engineer. Full Stack Dev. 
+
+Currently working as a full time QA Engineer.
+
